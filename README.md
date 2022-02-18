@@ -8,3 +8,8 @@ Used features
 
 *   HTML DOM methods
 *   JavaScript functions
+
+
+**still needs to be upgraded**
+
+https://dmitryrasov.github.io/Simple-Calculator/
